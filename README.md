@@ -1,262 +1,202 @@
 <div align="center">
 
-# 👋 Hi, I'm Charuka Wickramarachchi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=CHARUKA%20//%20DIGITAL%20OS&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=●%20SYSTEM%20ONLINE%20—%20DATA%20SCIENCE%20•%20ANALYTICS%20•%20AI&descAlignY=58&descSize=15" width="100%"/>
 
-### Data Science & Business Analytics Undergraduate | Data Analyst | ML Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Science+%26+Business+Analytics+Undergraduate;Data+Analyst;Machine+Learning+Enthusiast;Dashboard+Developer;Data-Driven+Problem+Solver;Building+Solutions+with+Data+%26+Technology" alt="Typing SVG" />
-
-<br>
-
-<a href="https://github.com/CharukaNWickramarachchi">
-<img src="https://img.shields.io/github/followers/CharukaNWickramarachchi?label=Followers&style=for-the-badge&logo=github" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=00C6FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Charuka+OS...;%3E+Loading+Data+Science+Modules...;%3E+Loading+Machine+Learning+Systems...;%3E+Connecting+to+GitHub...;%3E+System+Online." alt="Terminal boot animation" />
 </a>
 
-<a href="https://github.com/CharukaNWickramarachchi?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" />
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=600&lines=Data+Scientist;Business+Analyst;Machine+Learning+Enthusiast;Analytics+Engineer;Builder" alt="Roles" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+<br/>
+
+![Status](https://img.shields.io/badge/●-SYSTEM%20ONLINE-1DB954?style=flat-square&labelColor=0d1117)
+![Building](https://img.shields.io/badge/●-CURRENTLY%20BUILDING-00C6FF?style=flat-square&labelColor=0d1117)
+![Open](https://img.shields.io/badge/●-OPEN%20TO%20COLLABORATION-F2C811?style=flat-square&labelColor=0d1117)
+<img src="https://komarev.com/ghpvc/?username=CharukaNWickramarachchi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 About Me
 
-I'm **Charuka Wickramarachchi**, an undergraduate specializing in **Data Science and Business Analytics** at **General Sir John Kotelawala Defence University (KDU), Sri Lanka**.
-
-I am passionate about transforming data into meaningful insights and building practical, data-driven solutions to real-world problems.
-
-My interests include:
-
-- 📊 Data Analytics & Exploratory Data Analysis
-- 🤖 Machine Learning & Predictive Analytics
-- 📈 Business Intelligence & Interactive Dashboards
-- 🗄️ Databases & Data Warehousing
-- 🔄 Data Engineering & ETL Pipelines
-- ⚽ Sports Analytics
-- 🚀 Building practical end-to-end data products
-
-I enjoy working across the complete data lifecycle — from collecting and cleaning data to analysis, modelling, visualization, and deployment.
+- 🎓 Undergraduate in **Data Science & Business Analytics** at **General Sir John Kotelawala Defence University**, Sri Lanka
+- 🔭 Currently building data systems, ML models and analytics dashboards
+- 🌱 Learning across the full data stack — engineering, modelling, and BI
+- 💡 Interested in turning messy real-world data into decisions people can act on
+- 📫 Reach me through the links at the bottom of this page
 
 ---
 
-## 🚀 Currently Building
+## ⚡ Live Development Pulse
 
-### ⚽ Premier League Analytics Pro
+<!--LIVE_PULSE_START-->
+| | |
+|---|---|
+| 📦 **Public repositories** | syncing... |
+| 🕓 **Last push** | syncing... |
+| 🔤 **Most used language** | syncing... |
+| 🔄 **Last synced** | not yet run |
+<!--LIVE_PULSE_END-->
 
-An interactive football analytics platform focused on Premier League data, team performance, match analysis, historical insights, and machine-learning-based predictions.
-
-**Technology Stack**
-
-`Python` `Pandas` `NumPy` `Plotly` `Scikit-learn` `XGBoost` `LightGBM` `Streamlit`
-
-🔗 [View Project](https://github.com/CharukaNWickramarachchi/PremierLeagueAnalyticsPro)
-
----
-
-### 🧠 Data-Driven Business Solutions
-
-Exploring how data science, machine learning, analytics, and intelligent dashboards can be combined to solve practical business problems.
+> This table and the Digital DNA chart below are regenerated automatically once a day by `.github/workflows/update-readme.yml` — real numbers pulled live from the GitHub API, not hand-typed.
 
 ---
 
-## 🛠️ Technology Stack
+## 🧬 Digital DNA
 
-### 👨‍💻 Programming
+<div align="center">
+<img src="assets/digital_dna.svg" alt="Digital DNA — skill weighting generated from your own repo language data" width="100%"/>
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js" />
-</p>
-
-### 📊 Data Science & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`Pandas` `NumPy` `Scikit-learn` `XGBoost` `LightGBM`
-
-### 📈 Data Visualization
-
-`Plotly` `Matplotlib`
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### 🌐 Development & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=streamlit,git,github,vscode" />
-</p>
-
-### 🔄 Data & Analytics
-
-`EDA` `ETL` `Data Warehousing` `Data Marts` `Business Analytics` `Predictive Analytics`
+<sub>Weighted automatically from the languages actually used across your repositories — the more you build in something, the taller the bar.</sub>
 
 ---
 
-# ⭐ Featured Projects
+## 🌐 Tech Constellation
 
-<table>
-<tr>
-<td width="50%">
-
-### ⚽ Premier League Analytics Pro
-
-Interactive Premier League analytics platform featuring historical match analysis, team insights, visual analytics, and ML-powered predictions.
-
-**Stack**
-
-`Python` `Streamlit` `Pandas` `Plotly` `XGBoost` `LightGBM`
-
-<a href="https://github.com/CharukaNWickramarachchi/PremierLeagueAnalyticsPro">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### ❤️ CardioVision AI
-
-A machine-learning project focused on cardiovascular risk analysis and predictive modelling.
-
-**Stack**
-
-`Python` `Pandas` `Scikit-learn` `Machine Learning`
-
-<a href="https://github.com/CharukaNWickramarachchi/CardioVision-AI">
-View Repository →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 👕 Fashion Retail Reorder Prediction
-
-A predictive analytics project focused on retail demand and reorder prediction using data-driven modelling.
-
-**Stack**
-
-`Python` `Pandas` `Machine Learning` `Predictive Analytics`
-
-<a href="https://github.com/CharukaNWickramarachchi/Fashion-Retail-Reorder-Prediction">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🏥 Hospital Management Dashboard
-
-A data analytics and dashboard project focused on transforming operational data into meaningful insights.
-
-**Stack**
-
-`Python` `Data Analytics` `Visualization` `Dashboard`
-
-<a href="https://github.com/CharukaNWickramarachchi/Hospital-Management-Dashboard">
-View Repository →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗄️ OLTP Sales System
-
-A relational database project focused on transactional data management, database design, and SQL-based analysis.
-
-**Stack**
-
-`SQL` `MySQL` `Database Design` `OLTP`
-
-<a href="https://github.com/CharukaNWickramarachchi/OLTP-Sales-System">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 📊 More Projects
-
-Explore my repositories to discover more work across data science, analytics, databases, machine learning, and software development.
-
-<a href="https://github.com/CharukaNWickramarachchi?tab=repositories">
-View All Projects →
-</a>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/tech_constellation.svg" alt="Tech constellation" width="70%"/>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## 🧪 Project Intelligence
+
+<details open>
+<summary><b>⚽ Premier League Analytics Pro</b> — Sports Analytics</summary>
+<br/>
+
+| | |
+|---|---|
+| **Problem** | *(fill in — e.g. predicting match outcomes from historical data)* |
+| **Data** | *(fill in — e.g. 9,880 matches)* |
+| **Technologies** | Python · Pandas · Plotly · Scikit-learn · XGBoost · LightGBM · Streamlit |
+| **Status** | 🟢 Active development |
+
+</details>
+
+<details>
+<summary><b>🫀 CardioVision AI</b> — Healthcare / ML</summary>
+<br/>
+
+| | |
+|---|---|
+| **Problem** | *(fill in)* |
+| **Data** | *(fill in)* |
+| **Technologies** | *(fill in)* |
+| **Status** | *(fill in)* |
+
+</details>
+
+<details>
+<summary><b>👗 Fashion Retail Analytics</b> — Retail / BI</summary>
+<br/>
+
+| | |
+|---|---|
+| **Problem** | *(fill in)* |
+| **Data** | *(fill in)* |
+| **Technologies** | *(fill in)* |
+| **Status** | *(fill in)* |
+
+</details>
+
+<details>
+<summary><b>🏥 Hospital Data System</b> — Data Engineering</summary>
+<br/>
+
+| | |
+|---|---|
+| **Problem** | *(fill in)* |
+| **Data** | *(fill in)* |
+| **Technologies** | *(fill in)* |
+| **Status** | *(fill in)* |
+
+</details>
+
+<sub>Fill in each table with your real project details — that's what makes this section worth more than a plain project list to a recruiter skimming your profile.</sub>
+
+---
+
+## 🧫 Experiment Lab
+
+<details>
+<summary><b>EXP-001 — Premier League Match Prediction</b></summary>
+<br/>
+
+**Hypothesis:** Can historical match data predict future outcomes?
+**Status:** 🧪 Experimenting
+**Pipeline:** Dataset → EDA → Feature Engineering → Models → Evaluation → Result
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CharukaNWickramarachchi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CharukaNWickramarachchi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharukaNWickramarachchi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharukaNWickarachchi&layout=compact&hide_border=true&langs_count=8" height="180" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CharukaNWickramarachchi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CharukaNWickramarachchi&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🏆 Trophies
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=CharukaNWickarachchi&hide_border=true" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=CharukaNWickramarachchi&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 </div>
 
 ---
 
-## 🐍 My Contribution Journey
+## 🐍 Contribution Matrix
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/CharukaNWickarachchi/CharukaNWickarachchi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-
+<img src="https://raw.githubusercontent.com/CharukaNWickramarachchi/CharukaNWickramarachchi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
 </div>
 
 ---
 
-## 🎓 Education
-
-**General Sir John Kotelawala Defence University**
-
-Bachelor's Degree in **Data Science and Business Analytics**
-
-Sri Lanka
-
----
-
-## 📚 Areas of Interest
+## 🛰️ Data Journey
 
 ```text
-Data Science
-├── Data Analytics
-├── Exploratory Data Analysis
-├── Machine Learning
-├── Predictive Analytics
-├── Business Intelligence
-├── Data Visualization
-├── Data Engineering
-└── Data Warehousing
+2024 ── Programming fundamentals
+2025 ── Data Analytics, SQL, Databases
+2026 ── Machine Learning, Data Engineering, Advanced Analytics
+2027 ── AI + Intelligent Systems  (target)
+```
+
+---
+
+## 🌍 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/YOUR-TWITTER-ID" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://medium.com/@YOUR-MEDIUM-ID" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=120&section=footer" width="100%"/>
+</div>
