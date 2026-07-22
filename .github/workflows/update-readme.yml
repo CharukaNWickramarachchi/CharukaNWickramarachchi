@@ -1,0 +1,27 @@
+name: Update Live Intelligence
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run intelligence engine
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/generate_stats.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "charuka-os-bot"
+          git config user.email "actions@github.com"
+          git add README.md assets/digital_dna.svg
+          git diff --cached --quiet || git commit -m "chore: update live intelligence [skip ci]"
+          git push

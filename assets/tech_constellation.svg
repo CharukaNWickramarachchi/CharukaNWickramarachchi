@@ -1,0 +1,54 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="core" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#00c6ff"/>
+      <stop offset="100%" stop-color="#0f2027"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="none"/>
+
+  <!-- connecting lines -->
+  <g stroke="#2c5364" stroke-width="1.5">
+    <line x1="320" y1="180" x2="150" y2="70"/>
+    <line x1="320" y1="180" x2="320" y2="50"/>
+    <line x1="320" y1="180" x2="490" y2="70"/>
+    <line x1="320" y1="180" x2="120" y2="200"/>
+    <line x1="320" y1="180" x2="520" y2="200"/>
+    <line x1="320" y1="180" x2="180" y2="310"/>
+    <line x1="320" y1="180" x2="320" y2="330"/>
+    <line x1="320" y1="180" x2="460" y2="310"/>
+  </g>
+
+  <!-- core node -->
+  <circle cx="320" cy="180" r="34" fill="url(#core)">
+    <animate attributeName="r" values="34;38;34" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="320" y="185" text-anchor="middle" fill="#ffffff" font-family="'Fira Code', monospace" font-size="13" font-weight="600">PYTHON</text>
+
+  <!-- satellite nodes -->
+  <g font-family="'Fira Code', monospace" font-size="12" fill="#c9d1d9" text-anchor="middle">
+    <circle cx="150" cy="70" r="26" fill="#1b2430" stroke="#00c6ff"/>
+    <text x="150" y="74">Pandas</text>
+
+    <circle cx="320" cy="50" r="26" fill="#1b2430" stroke="#00c6ff"/>
+    <text x="320" y="54">NumPy</text>
+
+    <circle cx="490" cy="70" r="26" fill="#1b2430" stroke="#00c6ff"/>
+    <text x="490" y="74">Sklearn</text>
+
+    <circle cx="120" cy="200" r="26" fill="#1b2430" stroke="#00c6ff"/>
+    <text x="120" y="204">SQL</text>
+
+    <circle cx="520" cy="200" r="26" fill="#1b2430" stroke="#00c6ff"/>
+    <text x="520" y="204">Plotly</text>
+
+    <circle cx="180" cy="310" r="26" fill="#1b2430" stroke="#00c6ff"/>
+    <text x="180" y="314">Power BI</text>
+
+    <circle cx="320" cy="330" r="26" fill="#1b2430" stroke="#00c6ff"/>
+    <text x="320" y="334">Streamlit</text>
+
+    <circle cx="460" cy="310" r="26" fill="#1b2430" stroke="#00c6ff"/>
+    <text x="460" y="314">XGBoost</text>
+  </g>
+</svg>
