@@ -38,10 +38,10 @@
 <!--LIVE_PULSE_START-->
 | | |
 |---|---|
-| 📦 **Public repositories** | syncing... |
-| 🕓 **Last push** | syncing... |
-| 🔤 **Most used language** | syncing... |
-| 🔄 **Last synced** | not yet run |
+| 📦 **Public repositories** | 6 |
+| 🕓 **Last push** | 3h ago |
+| 🔤 **Most used language** | Python |
+| 🔄 **Last synced** | 2026-07-23 05:53 UTC |
 <!--LIVE_PULSE_END-->
 
 > This table and the Digital DNA chart below are regenerated automatically once a day by `.github/workflows/update-readme.yml` — real numbers pulled live from the GitHub API, not hand-typed.
