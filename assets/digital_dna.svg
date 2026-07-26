@@ -9,16 +9,16 @@
   
     <text x="10" y="46" fill="#c9d1d9" font-family="'Fira Code', monospace" font-size="13">Python</text>
     <rect x="150" y="30" width="420" height="16" rx="8" fill="#1b2430"/>
-    <rect x="150" y="30" width="54" height="16" rx="8" fill="url(#grad)">
-      <animate attributeName="width" from="0" to="54" dur="1.2s" fill="freeze"/>
+    <rect x="150" y="30" width="58" height="16" rx="8" fill="url(#grad)">
+      <animate attributeName="width" from="0" to="58" dur="1.2s" fill="freeze"/>
     </rect>
-    <text x="580" y="46" fill="#00c6ff" font-family="'Fira Code', monospace" font-size="12">13%</text>
+    <text x="580" y="46" fill="#00c6ff" font-family="'Fira Code', monospace" font-size="12">14%</text>
     <text x="10" y="80" fill="#c9d1d9" font-family="'Fira Code', monospace" font-size="13">Data/SQL</text>
     <rect x="150" y="64" width="420" height="16" rx="8" fill="#1b2430"/>
-    <rect x="150" y="64" width="365" height="16" rx="8" fill="url(#grad)">
-      <animate attributeName="width" from="0" to="365" dur="1.2s" fill="freeze"/>
+    <rect x="150" y="64" width="357" height="16" rx="8" fill="url(#grad)">
+      <animate attributeName="width" from="0" to="357" dur="1.2s" fill="freeze"/>
     </rect>
-    <text x="580" y="80" fill="#00c6ff" font-family="'Fira Code', monospace" font-size="12">87%</text>
+    <text x="580" y="80" fill="#00c6ff" font-family="'Fira Code', monospace" font-size="12">85%</text>
     <text x="10" y="114" fill="#c9d1d9" font-family="'Fira Code', monospace" font-size="13">Web/App</text>
     <rect x="150" y="98" width="420" height="16" rx="8" fill="#1b2430"/>
     <rect x="150" y="98" width="0" height="16" rx="8" fill="url(#grad)">
